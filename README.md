@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-![128](https://github.com/extrastu/side-browser-release/assets/19451694/966aabd0-5d09-4a25-bee3-ec0fd0ef0b6c)
+![Side browser logo](https://github.com/extrastu/side-browser-release/assets/19451694/2bbab3c9-c959-4909-9ec4-21d6be172c18)
 
 <!-- PROJECT LOGO -->
 <br />
