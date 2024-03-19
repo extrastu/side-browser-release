@@ -1,9 +1,8 @@
 <div id="top"></div>
-
-![Side browser logo](https://github.com/extrastu/side-browser-release/assets/19451694/2bbab3c9-c959-4909-9ec4-21d6be172c18)
-
 <!-- PROJECT LOGO -->
 <br />
+
+![Side browser logo](https://github.com/extrastu/side-browser-release/assets/19451694/cbc8f5d9-b164-4814-9d22-ae482ec05616)
 
 <!-- ABOUT THE PROJECT -->
 
