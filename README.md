@@ -11,11 +11,26 @@
 A Browser extension for Chrome and Firefox that allows you to open a side panel to browse the web while you work.
 
 
-## 功能
+## Feature
 
--  侧边栏浏览网页
--  支持输入网址
--  支持记录上一次浏览的网页
+- Sidebar Browsing
+- Support for inputting URLs
+- Support to record the last browsed web page
+- Support opening bookmarks.
+- Support Right-click to open the web page being viewed （1.0.3）
+
+## Download and install.
+
+Please visit the online app store using Chrome to get the plugin download.
+
+<a href="https://chromewebstore.google.com/detail/side-browser/pcamlcdojeblfddaeoajojpjnenniedk">
+  <img src="https://tva1.sinaimg.cn/large/008i3skNgy1gtzt8n5jwmj60ds046wed02.jpg" alt="Download flomoplus on the Chrome Web Store" width="248px" height="75px" />
+</a>
+
+## Get the Beta
+
+https://github.com/extrastu/side-browser-release/releases
+
 
 ### Built With
 
